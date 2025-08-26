@@ -1,0 +1,200 @@
+[
+    {
+      "Id": 23,
+      "Hour": 23,
+      "Taxes": 0.08,
+      "NetSales": 1,
+      "LaborCost": 10.999999999999999999999999999,
+      "GrossSales": 1,
+      "GuestCount": 1,
+      "OrderCount": 1,
+      "LaborMinutes": 55
+    },
+    {
+      "Id": 10,
+      "Hour": 10,
+      "Taxes": 3.59,
+      "NetSales": 43.43,
+      "LaborCost": 0,
+      "GrossSales": 57.91,
+      "GuestCount": 4,
+      "OrderCount": 4,
+      "LaborMinutes": 60
+    },
+    {
+      "Id": 11,
+      "Hour": 11,
+      "Taxes": 4.92,
+      "NetSales": 59.81,
+      "LaborCost": 0,
+      "GrossSales": 63.5,
+      "GuestCount": 6,
+      "OrderCount": 6,
+      "LaborMinutes": 60
+    },
+    {
+      "Id": 12,
+      "Hour": 12,
+      "Taxes": 22.07,
+      "NetSales": 267.16,
+      "LaborCost": 0,
+      "GrossSales": 287.88,
+      "GuestCount": 21,
+      "OrderCount": 21,
+      "LaborMinutes": 15
+    },
+    {
+      "Id": 13,
+      "Hour": 13,
+      "Taxes": 20.2,
+      "NetSales": 275.93,
+      "LaborCost": 0,
+      "GrossSales": 279.18,
+      "GuestCount": 23,
+      "OrderCount": 23,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 14,
+      "Hour": 14,
+      "Taxes": 29.21,
+      "NetSales": 354,
+      "LaborCost": 0,
+      "GrossSales": 373.97,
+      "GuestCount": 27,
+      "OrderCount": 27,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 15,
+      "Hour": 15,
+      "Taxes": 20.33,
+      "NetSales": 246.79,
+      "LaborCost": 0,
+      "GrossSales": 246.79,
+      "GuestCount": 30,
+      "OrderCount": 30,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 16,
+      "Hour": 16,
+      "Taxes": 24.44,
+      "NetSales": 296.29,
+      "LaborCost": 0,
+      "GrossSales": 298.28,
+      "GuestCount": 27,
+      "OrderCount": 27,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 17,
+      "Hour": 17,
+      "Taxes": 34.23,
+      "NetSales": 414.63,
+      "LaborCost": 0,
+      "GrossSales": 424.58,
+      "GuestCount": 31,
+      "OrderCount": 31,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 18,
+      "Hour": 18,
+      "Taxes": 47.89,
+      "NetSales": 580.68,
+      "LaborCost": 2.3833333333333333333333333337,
+      "GrossSales": 580.68,
+      "GuestCount": 39,
+      "OrderCount": 39,
+      "LaborMinutes": 13
+    },
+    {
+      "Id": 19,
+      "Hour": 19,
+      "Taxes": 36.54,
+      "NetSales": 455,
+      "LaborCost": 6.05,
+      "GrossSales": 475.61,
+      "GuestCount": 35,
+      "OrderCount": 35,
+      "LaborMinutes": 33
+    },
+    {
+      "Id": 20,
+      "Hour": 20,
+      "Taxes": 41.33,
+      "NetSales": 502.95,
+      "LaborCost": 0,
+      "GrossSales": 511.13,
+      "GuestCount": 36,
+      "OrderCount": 36,
+      "LaborMinutes": 0
+    },
+    {
+      "Id": 21,
+      "Hour": 21,
+      "Taxes": 36.87,
+      "NetSales": 446.98,
+      "LaborCost": 4.8749999999999999999999999996,
+      "GrossSales": 449.97,
+      "GuestCount": 31,
+      "OrderCount": 31,
+      "LaborMinutes": 26
+    },
+    {
+      "Id": 22,
+      "Hour": 22,
+      "Taxes": 18.82,
+      "NetSales": 228.16,
+      "LaborCost": 9.399999999999999999999999999,
+      "GrossSales": 235.94,
+      "GuestCount": 18,
+      "OrderCount": 18,
+      "LaborMinutes": 49
+    },
+    {
+      "Id": 6,
+      "Hour": 6,
+      "Taxes": 0,
+      "NetSales": 0,
+      "LaborCost": 0,
+      "GrossSales": 0,
+      "GuestCount": 0,
+      "OrderCount": 0,
+      "LaborMinutes": 60
+    },
+    {
+      "Id": 7,
+      "Hour": 7,
+      "Taxes": 0,
+      "NetSales": 0,
+      "LaborCost": 0,
+      "GrossSales": 0,
+      "GuestCount": 0,
+      "OrderCount": 0,
+      "LaborMinutes": 60
+    },
+    {
+      "Id": 8,
+      "Hour": 8,
+      "Taxes": 0,
+      "NetSales": 0,
+      "LaborCost": 0,
+      "GrossSales": 0,
+      "GuestCount": 0,
+      "OrderCount": 0,
+      "LaborMinutes": 60
+    },
+    {
+      "Id": 9,
+      "Hour": 9,
+      "Taxes": 0,
+      "NetSales": 0,
+      "LaborCost": 0,
+      "GrossSales": 0,
+      "GuestCount": 0,
+      "OrderCount": 0,
+      "LaborMinutes": 60
+    }
+  ]
